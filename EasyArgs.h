@@ -1,6 +1,7 @@
 #ifndef EASY_ARGS_H
 #define EASY_ARGS_H
 
+#include <stdio.h>
 #include <assert.h>
 #include <string.h>
 #include <stdlib.h>
